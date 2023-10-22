@@ -184,6 +184,7 @@ h6 {
 }
 
 .about-intro-img {
+  border: 2px solid #ff96ad;
   height: 600px;
   width: auto;
   margin: 0;
