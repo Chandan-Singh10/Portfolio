@@ -4,9 +4,9 @@ Hello! Welcome to my portfolio 👋
 <br>
  <img width="1440" alt="Screenshot 2023-11-14 at 12 40 48 PM" src="https://github.com/Chandan-Singh10/Chandan-Singh10/assets/72159043/cc0cc9b0-1ef0-4a74-a81c-1eeefb47b66b">
  
-Thank you for visiting my website repository. You can check it out at :
+Thank you for visiting my website repository. You can check it out at [Chandan-Singh10](https://chandan-singh10.github.io/Portfolio/).
 
-Contact:
+## Contact:
 
 Email: chandansinghcs9536+work@gmail.com
 
